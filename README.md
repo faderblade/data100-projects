@@ -1,1 +1,1 @@
-Hi! This is my homework for a subject in Data Science class.
+A compilation of files of my projects in the Principles of Data Science (DATA100) class
